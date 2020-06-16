@@ -1,3 +1,14 @@
+# React Pokemon API
+
+A React app that connects to a Pokemon API to list details of the first 150 Pokemon
+
+## The app carries out the following
+
+* Using a Pokemon API creates a dropdown list showing the first 150 Pokemon
+* When selected from the list shows the details about the pokemon by carrying out another API call for details
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
